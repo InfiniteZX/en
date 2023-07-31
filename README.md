@@ -7,3 +7,8 @@
 [My neofetch theme](https://github.com/InfiniteZX/neofetch-themes/releases/tag/Release)
 
 [Light Ores! Vanilla Edition](https://modrinth.com/resourcepack/light-ores!)
+
+
+
+
+###### [Русский сайт](https://infinitezx.github.io/ru)
