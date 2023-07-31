@@ -1,1 +1,2 @@
-# infinitezx.github.io
+# InfiniteZX
+##### he/him
