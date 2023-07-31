@@ -4,4 +4,9 @@
 #### Also i'm very lazy, so this site does not have a normal HTLM5 code :D
 ## My projects
 neofetch theme: https://github.com/InfiniteZX/neofetch-themes
+
+
+
+
+
 Light Ores! Vanilla Edition: https://modrinth.com/resourcepack/light-ores!
