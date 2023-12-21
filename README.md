@@ -1,6 +1,6 @@
 # About me
 ### Hello! My name is Daniil, and i'm 16 yo from nice town Mytischi! Also my username is: InfiniteZX or infzx
-#### I'm a proud user of Xbox Series X, iPhone 12 mini and PC on Ryzen 5 3600 and RX580 8G with installed Fedora Workstation!
+#### I'm a proud user of Xbox Series X, Google Pixel 7 and Notebook on Ryzen 5 5600H with RTX3050 (Laptop) on Windows 11!
 #### Also i'm very lazy, so this site does not have an even HTLM5 code :D
 ###### he/him
 ## My projects
